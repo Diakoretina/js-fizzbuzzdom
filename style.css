@@ -13,3 +13,24 @@ h1 {
     width: 80%;
     max-width: 1100px;
 }
+.box {
+    font-weight: bold;
+    width: 100px;
+    height: 100px;
+    background-color: #1389b2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 8px;
+}
+.box1 {
+    background-color: #0ad6a1;
+}
+
+.box2 {
+    background-color: #ffd166;
+}
+
+.box3 {
+    background-color: #f0466f;
+}
